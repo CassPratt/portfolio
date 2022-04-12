@@ -10,6 +10,8 @@ Game for iOS with Objective-C and using the Cocos2d library. This game teaches p
 
 <center><img src="images/minimusic-logo.png"/></center>
 
+
+
 ## Machine Learning
 
 ### Lending Club Case Study
